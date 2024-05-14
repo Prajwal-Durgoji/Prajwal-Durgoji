@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prajwal-890?tab=repositories](https://github.com/Prajwal-Durgoji?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Prajwal-Durgoji?tab=repositories](https://github.com/Prajwal-Durgoji?tab=repositories)
 
 - 💬 Ask me about **SpringBoot, React.js**
 
